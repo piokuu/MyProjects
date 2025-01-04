@@ -1,2 +1,2 @@
 # MyProjects
-Projekty i portfolio programisty
+Projekty i portfolio
